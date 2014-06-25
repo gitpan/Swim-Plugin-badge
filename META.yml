@@ -25,4 +25,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/kwim-plugin-badge-pm/issues
   homepage: https://github.com/ingydotnet/kwim-plugin-badge-pm
   repository: https://github.com/ingydotnet/kwim-plugin-badge-pm.git
-version: 0.1.0
+version: 0.1.1

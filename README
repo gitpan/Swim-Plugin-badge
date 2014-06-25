@@ -1,8 +1,6 @@
 NAME
     Swim::Plugin::badge - Swim Plugin for Badges
 
-    <badge travis coveralls ingydotnet/swim-plugin-badge-pm>
-
 SYNOPSIS
         <badge travis coveralls githubuserid/reponame>
 
