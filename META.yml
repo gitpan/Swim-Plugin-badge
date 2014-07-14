@@ -19,10 +19,10 @@ no_index:
     - xt
     - example
 requires:
-  Swim: '0'
+  Swim: v0.1.2
   perl: v5.8.1
 resources:
-  bugtracker: https://github.com/ingydotnet/kwim-plugin-badge-pm/issues
-  homepage: https://github.com/ingydotnet/kwim-plugin-badge-pm
-  repository: https://github.com/ingydotnet/kwim-plugin-badge-pm.git
-version: 0.1.1
+  bugtracker: https://github.com/ingydotnet/swim-plugin-badge-pm/issues
+  homepage: https://github.com/ingydotnet/swim-plugin-badge-pm
+  repository: https://github.com/ingydotnet/swim-plugin-badge-pm.git
+version: 0.1.2

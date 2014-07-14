@@ -34,7 +34,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Swim" : "0",
+            "Swim" : "v0.1.2",
             "perl" : "v5.8.1"
          }
       }
@@ -42,15 +42,15 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/ingydotnet/kwim-plugin-badge-pm/issues"
+         "web" : "https://github.com/ingydotnet/swim-plugin-badge-pm/issues"
       },
-      "homepage" : "https://github.com/ingydotnet/kwim-plugin-badge-pm",
+      "homepage" : "https://github.com/ingydotnet/swim-plugin-badge-pm",
       "repository" : {
          "type" : "git",
-         "url" : "https://github.com/ingydotnet/kwim-plugin-badge-pm.git",
-         "web" : "https://github.com/ingydotnet/kwim-plugin-badge-pm"
+         "url" : "https://github.com/ingydotnet/swim-plugin-badge-pm.git",
+         "web" : "https://github.com/ingydotnet/swim-plugin-badge-pm"
       }
    },
-   "version" : "0.1.1"
+   "version" : "0.1.2"
 }
 
