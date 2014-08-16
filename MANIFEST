@@ -32,7 +32,6 @@ inc/TestML/Runtime/TAP.pm
 inc/TestML/Util.pm
 lib/Swim/Plugin/badge.pm
 lib/Swim/Plugin/badge.pod
-t/000-compile-modules.t
 t/func.tml
 t/release-pod-syntax.t
 t/test.t

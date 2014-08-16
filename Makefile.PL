@@ -22,7 +22,7 @@ my %WriteMakefileArgs = (
   "PREREQ_PM" => {
     "Swim" => "v0.1.12"
   },
-  "VERSION" => "0.1.4",
+  "VERSION" => "0.1.5",
   "test" => {
     "TESTS" => "t/*.t"
   }
