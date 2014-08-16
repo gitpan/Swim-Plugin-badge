@@ -7,7 +7,10 @@ META.json
 META.yml
 Makefile.PL
 README
+inc/Pegex.pm
 inc/Pegex/Base.pm
+inc/Pegex/Bootstrap.pm
+inc/Pegex/Compiler.pm
 inc/Pegex/Grammar.pm
 inc/Pegex/Input.pm
 inc/Pegex/Optimizer.pm
@@ -22,15 +25,14 @@ inc/TestML/Compiler/Lite.pm
 inc/TestML/Compiler/Pegex.pm
 inc/TestML/Compiler/Pegex/AST.pm
 inc/TestML/Compiler/Pegex/Grammar.pm
-inc/TestML/Library.pm
 inc/TestML/Library/Debug.pm
 inc/TestML/Library/Standard.pm
 inc/TestML/Runtime.pm
 inc/TestML/Runtime/TAP.pm
 inc/TestML/Util.pm
-inc/Text/Diff.pm
 lib/Swim/Plugin/badge.pm
 lib/Swim/Plugin/badge.pod
+t/000-compile-modules.t
 t/func.tml
 t/release-pod-syntax.t
 t/test.t

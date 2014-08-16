@@ -25,4 +25,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/swim-plugin-badge-pm/issues
   homepage: https://github.com/ingydotnet/swim-plugin-badge-pm
   repository: https://github.com/ingydotnet/swim-plugin-badge-pm.git
-version: 0.1.3
+version: 0.1.4
