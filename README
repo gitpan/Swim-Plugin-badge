@@ -1,28 +1,17 @@
-Name
+NAME
     Swim::Plugin::badge - Swim Badge Image Support
 
-Synopsis
+SYNOPSIS
         <badge travis coveralls githubuserid/reponame>
 
-Description
+DESCRIPTION
     Add pretty Travis and Coveralls badges to your documentation.
 
-Author
-    Ingy döt Net
-
-Copyright and License
-    Copyright 2014. Ingy döt Net.
-
-    This program is free software; you can redistribute it and/or modify it
-    under the same terms as Perl itself.
-
-    See <http://www.perl.com/perl/misc/Artistic.html>
-
-Author
+AUTHOR
     Ingy döt Net <ingy@cpan.org>
 
-Copyright and License
-    Copyright 2014. Ingy döt Net.
+COPYRIGHT AND LICENSE
+    Copyright 2014-2015. Ingy döt Net.
 
     This program is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself.

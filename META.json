@@ -34,7 +34,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Swim" : "v0.1.32",
+            "Swim" : "v0.1.33",
             "perl" : "v5.8.1"
          }
       }
@@ -51,6 +51,6 @@
          "web" : "https://github.com/ingydotnet/swim-plugin-badge-pm"
       }
    },
-   "version" : "0.1.7"
+   "version" : "0.1.8"
 }
 
